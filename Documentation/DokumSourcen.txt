@@ -1,0 +1,11 @@
+Sourcen:
+
+https://willy-tech.de/temperatursensor-an-raspberry-pi/
+
+https://www.conrad.de/de/p/maxim-integrated-ds18s20-ds18s20-temperatursensor-55-bis-125-c-to-92-radial-bedrahtet-176168.html#productDownloads
+
+https://asset.conrad.com/media10/add/160267/c1/-/en/000176168DS01/datenblatt-176168-maxim-integrated-ds18s20-ds18s20-temperatursensor-55-bis-125-c-to-92-radial-bedrahtet.pdf
+
+https://os.mbed.com/components/DS1820/
+
+http://staff.ltam.lu/feljc/school/projets13/CO2_MMR/CO2_Tec_Doc/Temperaturmessung.pdf
