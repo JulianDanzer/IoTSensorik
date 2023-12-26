@@ -9,3 +9,9 @@ https://asset.conrad.com/media10/add/160267/c1/-/en/000176168DS01/datenblatt-176
 https://os.mbed.com/components/DS1820/
 
 http://staff.ltam.lu/feljc/school/projets13/CO2_MMR/CO2_Tec_Doc/Temperaturmessung.pdf
+
+https://www.sensorshop24.de/temperatursensor-dallas-ds18b20
+
+https://www.analog.com/media/en/technical-documentation/data-sheets/ds18b20.pdf
+
+http://www.dieelektronikerseite.de/Tools/Widerstandsrechner.htm
